@@ -1,0 +1,95 @@
+CAMPO;DESCRIÇÃO
+CODMEC;código INEP da escola (MEC)
+ANO;ano da turma
+ANO;ano do censo
+DEP;dependência administrativa da escola
+NOME;nome da Unidade Educacional
+SETEDU;setor educacional
+DISTRITO;distrito da escola
+SUBPREF;subprefeitura da escola
+DIRET;diretoria de educação
+ZONA;zona da cidade
+EFABAND9ANOS1S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 1º ano
+EFABAND9ANOS2S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 2º ano
+EFABAND9ANOS3S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 3º ano
+EFABAND9ANOS4S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 4º ano
+EFABAND9ANOS5S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 5º ano
+EFABAND9ANOS6S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 6º ano
+EFABAND9ANOS7S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 7º ano
+EFABAND9ANOS8S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 8º ano
+EFABAND9ANOS9S;quantidade de alunos que abandonaram o Ensino Fundamental de 9 anos no 9º ano
+EFABAND1S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 1º ano
+EFABAND2S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 2º ano
+EFABAND3S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 3º ano
+EFABAND4S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 4º ano
+EFABAND5S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 5º ano
+EFABAND6S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 6º ano
+EFABAND7S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 7º ano
+EFABAND8S;quantidade de alunos que abandonaram o Ensino Fundamental de 8 anos no 8º ano
+TOTALEF_ABAND;total de alunos que abandoram o Ensino Fundamental
+EFAPROV9ANOS1S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 1º ano
+EFAPROV9ANOS2S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 2º ano
+EFAPROV9ANOS3S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 3º ano
+EFAPROV9ANOS4S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 4º ano
+EFAPROV9ANOS5S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 5º ano
+EFAPROV9ANOS6S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 6º ano
+EFAPROV9ANOS7S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 7º ano
+EFAPROV9ANOS8S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 8º ano
+EFAPROV9ANOS9S;quantidade de alunos aprovados no Ensino Fundamental de 9 anos no 9º ano
+EFAPROV1S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 1º ano
+EFAPROV2S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 2º ano
+EFAPROV3S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 3º ano
+EFAPROV4S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 4º ano
+EFAPROV5S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 5º ano
+EFAPROV6S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 6º ano
+EFAPROV7S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 7º ano
+EFAPROV8S;quantidade de alunos aprovados no Ensino Fundamental de 8 anos no 8º ano
+TOTALEF_APROV;total de alunos aprovados no Ensino Fundamental
+EFREPROV9ANOS1S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 1º ano
+EFREPROV9ANOS2S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 2º ano
+EFREPROV9ANOS3S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 3º ano
+EFREPROV9ANOS4S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 4º ano
+EFREPROV9ANOS5S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 5º ano
+EFREPROV9ANOS6S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 6º ano
+EFREPROV9ANOS7S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 7º ano
+EFREPROV9ANOS8S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 8º ano
+EFREPROV9ANOS9S;quantidade de alunos reprovados no Ensino Fundamental de 9 anos no 9º ano
+EFREPROV1S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 1º ano
+EFREPROV2S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 2º ano
+EFREPROV3S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 3º ano
+EFREPROV4S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 4º ano
+EFREPROV5S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 5º ano
+EFREPROV6S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 6º ano
+EFREPROV7S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 7º ano
+EFREPROV8S;quantidade de alunos reprovados no Ensino Fundamental de 8 anos no 8º ano
+TOTALEF_REPROV;total de alunos reprovados no Ensino Fundamental
+CONCLUINTES_EF;total de alunos concluintes no Ensino Fundamental
+EMABAND1S;quantidade de alunos que abandonaram o Ensino Médio no 1º ano
+EMABAND2S;quantidade de alunos que abandonaram o Ensino Médio no 2º ano
+EMABAND3S;quantidade de alunos que abandonaram o Ensino Médio no 3º ano
+EMABAND4S;quantidade de alunos que abandonaram o Ensino Médio no 4º ano
+TOTAL_EM_ABAND;total de alunos que abandoram o Ensino Médio
+EMREPROV1S;quantidade de alunos reprovados no Ensino Médio no 1º ano
+EMREPROV2S;quantidade de alunos reprovados no Ensino Médio no 2º ano
+EMREPROV3S;quantidade de alunos reprovados no Ensino Médio no 3º ano
+EMREPROV4S;quantidade de alunos que abandonaram o Ensino Médio no 4º ano
+TOTAL_EM_REPROV;total de alunos reprovados no Ensino Médio
+EMAPROV1S;quantidade de alunos aprovados no Ensino Médio no 1º ano
+EMAPROV2S;quantidade de alunos aprovados no Ensino Médio no 2º ano
+EMAPROV3S;quantidade de alunos aprovados no Ensino Médio no 3º ano
+EMAPROV4S;quantidade de alunos aprovados no Ensino Médio no 4º ano
+TOTAL_EM_APROV;total de alunos provados no Ensino Médio
+CONCLUINTES_EM;total de concluintes no Ensino Médio
+CONCLUINTES_EJA;total de concluintes na Educação de Jovens e Adultos
+EPAPROV;quantidade de alunos aprovados nas escolas particulares
+EPREPROV;quantidade de alunos reprovados nas escolas particulares
+EPABAND;quantidade de alunos que abandoram as escolas particulares
+EJAIABAND;quantidade de alunos que abandonaram a Educação de Jovens e Adultos no 1º ano
+EJAIAPROV;quantidade de alunos aprovados na Educação de Jovens e Adultos no 1º ano
+EJAIREPROV;quantidade de alunos reprovados na Educação de Jovens e Adultos no 1º ano
+EJAITOTAL;total de alunos na Educação de Jovens e Adultos no 1º ano
+EJAIIABAND;quantidade de alunos que abandonaram a Educação de Jovens e Adultos no 2º ano
+EJAIIAPROV;quantidade de alunos aprovados na Educação de Jovens e Adultos no 2º ano
+EJAIIREPROV;quantidade de alunos reprovados na Educação de Jovens e Adultos no 2º ano
+EJAIITOTAL;total de alunos na Educação de Jovens e Adultos no 2º ano
+EJATOTAL;total  de alunos na Educação de Jovens e Adultos 
